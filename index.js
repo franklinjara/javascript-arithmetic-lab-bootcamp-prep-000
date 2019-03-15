@@ -36,6 +36,7 @@ function dec(a) {
 }
 
 function makeInt(a) {
-if (a )
+if parseInt(a, 10)
+  return 
 }
 
