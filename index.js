@@ -44,5 +44,5 @@ function preserveDecimal(a) {
 }
 
 function preserveDecimal(a) {
-  return a.toString(null);
+  return a.toString;
 }
