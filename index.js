@@ -35,8 +35,4 @@ function dec(a) {
   return a - 1;
 }
 
-function makeInt(a) {
-if parseInt(a, 10)
-  return 
-}
 
